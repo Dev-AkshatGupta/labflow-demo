@@ -1,0 +1,3 @@
+id,temperature,time,catalyst,loading,solvent,yield,impurity,temperature_unit,time_unit,loading_unit,yield_unit,impurity_unit,provenance
+BAD-001,,4,XPhos Pd,1,Toluene,not-a-number,4,,h,mol%,%,%,synthetic
+BAD-002,110,4,XPhos Pd,1,Ethanol,80,4,°C,h,mol%,%,%,synthetic
